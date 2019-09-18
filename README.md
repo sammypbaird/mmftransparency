@@ -1,4 +1,4 @@
-# mmftransparency
+# MMF Transparency
 
 ## Project Description and Use Cases
 The overall goal of this project is to treat a Money Market Fund (MMF) like any other portfolio on our system, where users can see the individual holdings that make up a fund and not merely its top-level statistics. Right now, a user can only see average credit ratings, average rate of return, etc., for the MMF as a whole and not the individual securities inside it, even though theoretically you own a proportion of all the underlying securities. The same holds true for mutual funds, hedge funds, exchange-traded funds and the like.
