@@ -3,6 +3,7 @@ GO
 
 USE mmf
 CREATE TABLE dbo.mmfData (
+	id INT IDENTITY(1,1) PRIMARY KEY,
     fund varchar(128),
 	fundCusip varchar(16),
 	percentOfFund float,
