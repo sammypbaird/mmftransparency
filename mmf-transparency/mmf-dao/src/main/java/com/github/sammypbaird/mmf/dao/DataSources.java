@@ -1,4 +1,4 @@
-package com.github.sammypbaird.mmf.parser;
+package com.github.sammypbaird.mmf.dao;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 import javax.sql.DataSource;

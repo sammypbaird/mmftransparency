@@ -11,6 +11,7 @@
     <modules>
         <module>mmf-lib</module>
         <module>mmf-parser</module>
+        <module>mmf-dao</module>
     </modules>
     <build>
         <plugins>
