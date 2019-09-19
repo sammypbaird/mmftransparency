@@ -16,7 +16,7 @@ public class DataSources
 	{
 		BasicDataSource dataSource = new BasicDataSource();
 		dataSource.setDriverClassName("net.sourceforge.jtds.jdbc.Driver");
-		dataSource.setUrl("jdbc:sqlserver://localhost;DatabaseName=mmf");
+		dataSource.setUrl("jdbc:jtds:sqlserver://localhost;DatabaseName=mmf");
 		dataSource.setUsername("sa");
 		dataSource.setPassword("Clearwater123!");
 		dataSource.setValidationQuery("select 1");
