@@ -1,6 +1,8 @@
 target/
 nbproject/
+out/
 nb-configuration.xml
 .idea/
 *.iml
+*.class
 dependency-reduced-pom.xml
